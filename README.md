@@ -89,8 +89,8 @@ Qual dos dois nomes (x ou frutas) deixa mais claro o conteúdo daquela variável
 Se o nome do seu pacote é `log`, por exemplo, você não precisa criar uma func que também tenha esse termo `log`. Pois quando você chamar essa função, variável ou constante fora do pacote, acaba ficando repetitivo.
 
 Exemplo:
-- log.Info() // :+1:
-- log.LogInfo() // :-1:
+- log.Info() // ótimo
+- log.LogInfo() // ruim
 
 #### Índices
 Em índices, procure ser curto. Utilize apenas uma letra:
